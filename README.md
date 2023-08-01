@@ -1,7 +1,7 @@
 # Online-Banking-Management-System
 
-## Description: This project aims to develop a banking system that is user-friendly and multi-
-## functional. The project has the following functionalities:
+## Description: This project aims to develop a banking system that is user-friendly and multi-functional. 
+### The project has the following functionalities:
 
 ### a. All account transactional details and customer information are stored in files.
 ### b. Account holders have to pass through a login system to enter their accounts.
