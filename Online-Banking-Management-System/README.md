@@ -1,5 +1,3 @@
-- [Online Banking_Management System]
-  - [To execute]
 
 ## To execute
 Step 1: Start Server
