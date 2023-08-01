@@ -1,7 +1,6 @@
-- [MINI_Project_Bank_Management](#mini_project_bank_management)
-  - [To execute](#to-execute)
+- [Online Banking_Management System]
+  - [To execute]
 
-# MINI_Project_Bank_Management
 ## To execute
 Step 1: Start Server
 - Compile Server
